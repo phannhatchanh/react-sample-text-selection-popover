@@ -1,7 +1,7 @@
 {
-  "name": "react-text-selection-tooltip",
+  "name": "react-sample-text-selection-popover",
   "version": "0.1.0",
-  "homepage": "https://phannhatchanh.github.io/react-text-selection-tooltip",
+  "homepage": "https://phannhatchanh.github.io/react-sample-text-selection-popover",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
