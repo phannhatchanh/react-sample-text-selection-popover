@@ -78,7 +78,7 @@ function App() {
                   target="_blank"
                   rel="noreferrer"
                   href={
-                    "https://www.facebook.com/sharer/sharer.php?u=https://phannhatchanh.com/&text=" +
+                    "https://www.facebook.com/sharer/sharer.php?u=https://phannhatchanh.com/react-sample-text-selection-popover/&text=" +
                     selectedText
                   }
                 >
@@ -94,7 +94,7 @@ function App() {
                   target="_blank"
                   rel="noreferrer"
                   href={
-                    "https://twitter.com/intent/tweet?url=https://phannhatchanh.com/&text=" +
+                    "https://twitter.com/intent/tweet?url=https://phannhatchanh.com/react-sample-text-selection-popover/&text=" +
                     selectedText +
                     "&via=nhatchanh"
                   }
@@ -107,9 +107,9 @@ function App() {
                   target="_blank"
                   rel="noreferrer"
                   href={
-                    "http://www.reddit.com/submit?title=tiêu đề bài viết&selftext=true&text=" +
+                    "http://www.reddit.com/submit?title=Title Article&selftext=true&text=" +
                     selectedText +
-                    " https://phanhatchanh.com/"
+                    " https://phanhatchanh.com/react-sample-text-selection-popover/"
                   }
                 >
                   <svg fill="#ff4500" viewBox="0 0 512 512">
